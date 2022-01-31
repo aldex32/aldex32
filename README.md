@@ -2,7 +2,7 @@
 
 ## My name is Aldo and I am a Software Developer!
 
-About me: http://aldosinanaj.com/
+More about me: http://aldosinanaj.com/
 
 ### Connect with me:
 
